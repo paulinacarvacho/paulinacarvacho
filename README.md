@@ -1,5 +1,5 @@
 # Paulina Gisselle Carvacho Rubilar 👋  
-**Data Analyst | Finanzas Públicas & Operaciones (Cero Error)**  
+**Data Analyst | Finanzas & Operaciones (Cero Error)**  
 📍 Coyhaique, Región de Aysén, Chile
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue)](#)
